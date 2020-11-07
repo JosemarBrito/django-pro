@@ -1,0 +1,1 @@
+web: gunicorn britoscode.wsgi --log-file -
