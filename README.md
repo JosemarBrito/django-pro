@@ -1,6 +1,9 @@
 # django-pro
 Repositório para aprendizagem e criação de uma pagina web com Framework Django
 
+Aplicação disponivel  [Heroku](https://britoscodedjango.herokuapp.com)
+
+
 [![codecov](https://codecov.io/gh/JosemarBrito/django-pro/branch/main/graph/badge.svg?token=SR25BFQ3UL)](https://codecov.io/gh/JosemarBrito/django-pro)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/django-pro/shield.svg)](https://pyup.io/repos/github/JosemarBrito/django-pro/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/django-pro/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/django-pro/)
@@ -36,4 +39,7 @@ ____
       run: |
         pipenv run codecov
         
+        
+        
+        pipenv install gunicorn
         
